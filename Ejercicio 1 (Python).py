@@ -1,0 +1,6 @@
+print("Su nombre?: ")
+nombre = input()
+print("Su edad?: ")
+edad = int(input())
+print("Hola, " + nombre + ", usted tiene " + str(edad)
+      + " de edad, y en una decada tendra " + str(edad+10))
